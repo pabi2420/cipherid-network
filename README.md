@@ -4,7 +4,7 @@
 
 ### Privacy-First Infrastructure for Modern Web3
 
-<img src="Assets/logo.png" width="180">
+<img src="logo.png" width="180">
 
 ---
 
